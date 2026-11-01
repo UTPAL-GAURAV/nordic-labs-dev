@@ -24,9 +24,9 @@ const services = [
   },
   {
     icon: MessageSquare,
-    title: "Technical Consulting",
+    title: "App Development",
     description:
-      "Architecture reviews, tech stack guidance, and code audits. Honest advice from engineers who have shipped real products.",
+      "End-to-end mobile and web app development. From concept to launch, we build scalable, user-friendly applications that deliver real value.",
   },
 ];
 
